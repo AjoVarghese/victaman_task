@@ -3,10 +3,10 @@
 This is static website which have a contact form with validation
 The website is mobile responsive
 
-#Installation
+#Installation:
 Make sure that latest node version is installed in your machine
 
-#Run the project
+#Run the project:
 Clone the project using the repo link
 Run the command npm i , to install all the dependencies
 Run the command, npm start
